@@ -18,7 +18,6 @@ Smart Notes makes it easy for users to stay organized and productive, whether th
 
 4.You can also run this in your mobile by USB debugging choice you device in android studio and run the app it redirects to your mobile. 
 
-![3](https://github.com/DurgaSusmitha/SmartNotes/assets/127092893/78707659-71d9-445c-bdd5-72849c23044d)
+![WhatsApp Image 2023-06-19 at 16 14 38](https://github.com/DurgaSusmitha/SmartNotes/assets/127092893/2008fa31-ea84-4f52-8e6c-062bba09be9b)
 
-![Uploading 7.jpg…]()
 
