@@ -11,6 +11,14 @@ Smart Notes makes it easy for users to stay organized and productive, whether th
 
 # Implementation
 1.Download and Extract the zip file SmartNotess.
+
 2.Open this in the Android Studio 2022.1.1.
+
 3.Let the gradel build and create a device in the emulator and choice the created device and run the app.
+
 4.You can also run this in your mobile by USB debugging choice you device in android studio and run the app it redirects to your mobile. 
+
+![3](https://github.com/DurgaSusmitha/SmartNotes/assets/127092893/78707659-71d9-445c-bdd5-72849c23044d)
+
+![Uploading 7.jpg…]()
+
